@@ -1,0 +1,2 @@
+Eduardo;123456789;eduardorebelo94@gmail.com;edu123;10
+Daniela;123345678;dani123@gmail.com;dani123;20
